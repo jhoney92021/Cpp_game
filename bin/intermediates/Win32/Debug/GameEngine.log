@@ -1,0 +1,22 @@
+﻿  Collision.cpp
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\ECS.h(93,33): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  ECS.cpp
+  Game.cpp
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :  see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&,int&,int&,int>(int &,int &,int &,int &,int &&)' being compiled
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :         with
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :         [
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :             T=TransformComponent
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :         ]
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\ECS.h(93,33): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+  TextureManager.cpp
+  Vector2D.cpp
+  Generating Code...
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :  see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&,int&,int&,int>(int &,int &,int &,int &,int &&)' being compiled
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :         with
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :         [
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :             T=TransformComponent
+C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\Src\ECS\TileComponent.h(46): message :         ]
+  GameEngine.vcxproj -> C:\Users\jhoney92021\source\repos\JhoneyEngine\GameEngine\bin\Win32\Debug\JhoneyEngine.exe

@@ -1,0 +1,15 @@
+# library dependencies
+
+SDL2.dll
+SDL2_image.dll
+zlib1.dll
+libpng16-16.dll
+
+# Imports
+
+External Dependancies/
+
+# OTHER STUFF
+
+*.opendb
+*.opensdf
